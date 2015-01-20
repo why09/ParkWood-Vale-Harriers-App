@@ -189,7 +189,6 @@ object frmMain: TfrmMain
   PixelsPerInch = 96
   TextHeight = 13
   object ADOConnection1: TADOConnection
-    Connected = True
     ConnectionString = 
       'Provider=Microsoft.ACE.OLEDB.15.0;Data Source=dbUsers.accdb;Pers' +
       'ist Security Info=False'
@@ -200,7 +199,6 @@ object frmMain: TfrmMain
     Top = 32
   end
   object ADOTableUsers: TADOTable
-    Active = True
     Connection = ADOConnection1
     CursorType = ctStatic
     TableName = 'tblUsers'
@@ -270,7 +268,6 @@ object frmMain: TfrmMain
     end
   end
   object ADOTableLevel: TADOTable
-    Active = True
     Connection = ADOConnection1
     CursorType = ctStatic
     TableName = 'tblLevel'
@@ -328,7 +325,6 @@ object frmMain: TfrmMain
     end
   end
   object ADOTableActivity: TADOTable
-    Active = True
     Connection = ADOConnection1
     CursorType = ctStatic
     TableName = 'tblActivity'

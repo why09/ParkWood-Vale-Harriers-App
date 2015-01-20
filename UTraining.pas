@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.StdCtrls, Vcl.DBCtrls,
-  Vcl.Grids, Vcl.Samples.Calendar, Vcl.ComCtrls, Vcl.DBLookup, Vcl.Mask;
+  Vcl.Grids, Vcl.Samples.Calendar, Vcl.ComCtrls, Vcl.Mask;
 
 type
   TfrmTraining = class(TForm)
