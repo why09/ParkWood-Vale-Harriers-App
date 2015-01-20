@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{43D13D1A-F8D8-4D5C-9F58-5AC6F2DCABE0}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">PApp1.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">2057</Options>
+      <Options Name="TargetName">..\Win32\Debug\PApp1.ENU</Options>
+      <Options Name="BRCC_IncludePath"></Options>
+      <Options Name="Company"></Options>
+      <Options Name="Configuration"></Options>
+      <Options Name="Copyright"></Options>
+      <Options Name="Description"></Options>
+      <Options Name="Trademark"></Options>
+      <Options Name="Product"></Options>
+      <Options Name="ProductVersion"></Options>
+      <Options Name="Title"></Options>
+      <Options Name="FileVersion"></Options>
+      <Options Name="Evidence"></Options>
+      <Options Name="KeyFile"></Options>
+      <Options Name="KeyName"></Options>
+    </Options>
+    <FileList>
+      <File FileName="UAdmin.dfm" ContainerId="W32Form" ModuleName="UAdmin.dfm"/>
+      <File FileName="ULogon.dfm" ContainerId="W32Form" ModuleName="ULogon.dfm"/>
+      <File FileName="UMain.dfm" ContainerId="W32Form" ModuleName="UMain.dfm"/>
+      <File FileName="UManager.dfm" ContainerId="W32Form" ModuleName="UManager.dfm"/>
+      <File FileName="UPassChange.dfm" ContainerId="W32Form" ModuleName="UPassChange.dfm"/>
+      <File FileName="UPrint.dfm" ContainerId="W32Form" ModuleName="UPrint.dfm"/>
+      <File FileName="UTraining.dfm" ContainerId="W32Form" ModuleName="UTraining.dfm"/>
+      <File FileName="UUser.dfm" ContainerId="W32Form" ModuleName="UUser.dfm"/>
+      <File FileName="vcl\DBLOGDLG.dfm" ContainerId="W32Form" ModuleName="DBLOGDLG.dfm"/>
+      <File FileName="vcl\DBPWDLG.dfm" ContainerId="W32Form" ModuleName="DBPWDLG.dfm"/>
+      <File FileName="Win32\Debug\PApp1_DRC.rc" ContainerId="W32RC" ModuleName="PApp1_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

@@ -1,0 +1,41 @@
+unit UUser;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, UMain, Data.DB, Vcl.StdCtrls;
+
+type
+  TfrmUser = class(TForm)
+    dsUsers: TDataSource;
+    btnNewSession: TButton;
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure btnNewSessionClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmUser: TfrmUser;
+
+implementation
+
+{$R *.dfm}
+
+uses ULogon, UTraining;
+
+procedure TfrmUser.btnNewSessionClick(Sender: TObject);
+begin
+  frmUser.Visible := false;
+  frmTraining.Visible := true;
+end;
+
+procedure TfrmUser.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  frmLogon.Visible := true;
+end;
+
+end.

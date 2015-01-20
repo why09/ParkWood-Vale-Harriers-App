@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="\\kali\Students_O_TR\os141454\Desktop\AS Computing\Coursework CG2.x\Application Files\UMain.dfm" source-language="en-GB" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="\\kali\Students_O_TR\os141454\Desktop\AS Computing\Coursework CG2.x\Application Files\UMain.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">42012.4672916667</prop>
+        <prop prop-type="OrigDateTime">42012.4208564815</prop>
+        <prop prop-type="XlatDateTime">42012.4208564815</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">79</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmMain.Left" resname="O:frmMain.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Top" resname="O:frmMain.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.BorderStyle" resname="O:frmMain.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.ClientHeight" resname="O:frmMain.ClientHeight">
+        <source>527</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.ClientWidth" resname="O:frmMain.ClientWidth">
+        <source>815</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Color" resname="O:frmMain.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Font.Charset" resname="O:frmMain.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Font.Color" resname="O:frmMain.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Font.Height" resname="O:frmMain.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Font.Name" resname="O:frmMain.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Font.Style" resname="O:frmMain.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.OldCreateOrder" resname="O:frmMain.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.Position" resname="O:frmMain.Position">
+        <source>poDesigned</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.ScreenSnap" resname="O:frmMain.ScreenSnap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.WindowState" resname="O:frmMain.WindowState">
+        <source>wsMaximized</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.OnClick" resname="O:frmMain.OnClick">
+        <source>FormClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.PixelsPerInch" resname="O:frmMain.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.TextHeight" resname="O:frmMain.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmMain</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.Connected" resname="O:frmMain.O:ADOConnection1.Connected">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.ConnectionString" resname="O:frmMain.O:ADOConnection1.ConnectionString">
+        <source>'Provider=Microsoft.ACE.OLEDB.15.0;Data Source=dbUsers.accdb;Persist Security Info=False'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.LoginPrompt" resname="O:frmMain.O:ADOConnection1.LoginPrompt">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056366</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.Mode" resname="O:frmMain.O:ADOConnection1.Mode">
+        <source>cmShareDenyNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.Provider" resname="O:frmMain.O:ADOConnection1.Provider">
+        <source>'Microsoft.ACE.OLEDB.15.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.Left" resname="O:frmMain.O:ADOConnection1.Left">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOConnection1.Top" resname="O:frmMain.O:ADOConnection1.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.Active" resname="O:frmMain.O:ADOTableUsers.Active">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.Connection" resname="O:frmMain.O:ADOTableUsers.Connection">
+        <source>ADOConnection1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.CursorType" resname="O:frmMain.O:ADOTableUsers.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.TableName" resname="O:frmMain.O:ADOTableUsers.TableName">
+        <source>'tblUsers'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.Left" resname="O:frmMain.O:ADOTableUsers.Left">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.Top" resname="O:frmMain.O:ADOTableUsers.Top">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersUserID.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersUserID.FieldName">
+        <source>'UserID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TIntegerField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersUsername.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersUsername.FieldName">
+        <source>'Username'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersUsername.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersUsername.Size">
+        <source>50</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPassword.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPassword.FieldName">
+        <source>'Password'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPassword.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPassword.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersLevel.Alignment" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersLevel.Alignment">
+        <source>taLeftJustify</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TIntegerField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersLevel.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersLevel.FieldName">
+        <source>'Level'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TIntegerField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersFName.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersFName.FieldName">
+        <source>'FName'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersFName.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersFName.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersSName.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersSName.FieldName">
+        <source>'SName'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersSName.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersSName.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersDOB.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersDOB.FieldName">
+        <source>'DOB'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TDateTimeField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersGender.Alignment" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersGender.Alignment">
+        <source>taLeftJustify</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TIntegerField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersGender.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersGender.FieldName">
+        <source>'Gender'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TIntegerField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress1.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress1.FieldName">
+        <source>'Address1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress1.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress1.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress2.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress2.FieldName">
+        <source>'Address2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress2.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersAddress2.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTown.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTown.FieldName">
+        <source>'Town'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTown.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTown.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPCode.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPCode.FieldName">
+        <source>'PCode'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPCode.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersPCode.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersStateProvince.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersStateProvince.FieldName">
+        <source>'State/Province'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersStateProvince.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersStateProvince.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTelephoneNumber.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTelephoneNumber.FieldName">
+        <source>'Telephone Number'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTelephoneNumber.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersTelephoneNumber.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersMobileNumber.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersMobileNumber.FieldName">
+        <source>'Mobile Number'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersMobileNumber.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersMobileNumber.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersEMailAddress.FieldName" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersEMailAddress.FieldName">
+        <source>'EMail Address'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableUsers.O:ADOTableUsersEMailAddress.Size" resname="O:frmMain.O:ADOTableUsers.O:ADOTableUsersEMailAddress.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableLevel.Active" resname="O:frmMain.O:ADOTableLevel.Active">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableLevel.Connection" resname="O:frmMain.O:ADOTableLevel.Connection">
+        <source>ADOConnection1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableLevel.CursorType" resname="O:frmMain.O:ADOTableLevel.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableLevel.TableName" resname="O:frmMain.O:ADOTableLevel.TableName">
+        <source>'tblLevel'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableLevel.Left" resname="O:frmMain.O:ADOTableLevel.Left">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableLevel.Top" resname="O:frmMain.O:ADOTableLevel.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableTrain.Active" resname="O:frmMain.O:ADOTableTrain.Active">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableTrain.Connection" resname="O:frmMain.O:ADOTableTrain.Connection">
+        <source>ADOConnection1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableTrain.CursorType" resname="O:frmMain.O:ADOTableTrain.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableTrain.TableName" resname="O:frmMain.O:ADOTableTrain.TableName">
+        <source>'tblTrain'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableTrain.Left" resname="O:frmMain.O:ADOTableTrain.Left">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableTrain.Top" resname="O:frmMain.O:ADOTableTrain.Top">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableActivity.Active" resname="O:frmMain.O:ADOTableActivity.Active">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableActivity.Connection" resname="O:frmMain.O:ADOTableActivity.Connection">
+        <source>ADOConnection1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056481</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableActivity.CursorType" resname="O:frmMain.O:ADOTableActivity.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableActivity.TableName" resname="O:frmMain.O:ADOTableActivity.TableName">
+        <source>'tblActivity'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableActivity.Left" resname="O:frmMain.O:ADOTableActivity.Left">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMain.O:ADOTableActivity.Top" resname="O:frmMain.O:ADOTableActivity.Top">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673056597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

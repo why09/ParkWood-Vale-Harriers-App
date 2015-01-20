@@ -1,0 +1,80 @@
+object frmUser: TfrmUser
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'User Interface'
+  ClientHeight = 511
+  ClientWidth = 526
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnClose = FormClose
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object btnNewSession: TButton
+    Left = 24
+    Top = 32
+    Width = 145
+    Height = 25
+    Caption = 'Add New Training Session'
+    TabOrder = 0
+    OnClick = btnNewSessionClick
+  end
+  object btnChange: TButton
+    Left = 240
+    Top = 32
+    Width = 97
+    Height = 25
+    Caption = 'Change Password'
+    TabOrder = 1
+    OnClick = btnChangeClick
+  end
+  object DBGrid1: TDBGrid
+    Left = 136
+    Top = 208
+    Width = 320
+    Height = 120
+    DataSource = dsQuery
+    TabOrder = 2
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+  object dsUsers: TDataSource
+    DataSet = frmMain.ADOTableUsers
+    Left = 440
+    Top = 32
+  end
+  object dsQuery: TDataSource
+    DataSet = qryActivity
+    Left = 440
+    Top = 96
+  end
+  object qryActivity: TADOQuery
+    Connection = frmMain.ADOConnection1
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      
+        'SELECT tblUsers.FName, tblUsers.SName, tblTrain.MemberID, tblTra' +
+        'in.SDate, tblTrain.STime, tblActivity.ActivityName, tblTrain.Dis' +
+        'tance, tblTrain.TimeTaken, tblTrain.CaloriesBurned, tblTrain.Sty' +
+        'le, [distance]/[timetaken] AS speed'
+      
+        'FROM tblActivity INNER JOIN (tblUsers INNER JOIN tblTrain ON tbl' +
+        'Users.UserID = tblTrain.MemberID) ON tblActivity.ActivityID = tb' +
+        'lTrain.ActivityID'
+      'WHERE (((tblTrain.MemberID)=1))'
+      'ORDER BY [distance]/[timetaken] DESC;')
+    Left = 64
+    Top = 152
+  end
+end

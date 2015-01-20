@@ -1,0 +1,47 @@
+object frmPrint: TfrmPrint
+  Left = 0
+  Top = 0
+  Caption = 'Print:'
+  ClientHeight = 588
+  ClientWidth = 808
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 88
+    Top = 24
+    Width = 617
+    Height = 126
+    Caption = 'I Hope Senpai'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -96
+    Font.Name = 'Tempus Sans ITC'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 88
+    Top = 156
+    Width = 617
+    Height = 126
+    Caption = 'Notices Me...'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -96
+    Font.Name = 'Tempus Sans ITC'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
+  object prD1: TPrintDialog
+    Left = 24
+    Top = 24
+  end
+end

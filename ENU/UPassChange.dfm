@@ -1,0 +1,76 @@
+object frmChangePassword: TfrmChangePassword
+  Left = 0
+  Top = 0
+  Caption = 'Change Password'
+  ClientHeight = 243
+  ClientWidth = 472
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblOldPassword: TLabel
+    Left = 100
+    Top = 32
+    Width = 69
+    Height = 13
+    Caption = 'Old Password:'
+  end
+  object lblNewPassword: TLabel
+    Left = 100
+    Top = 72
+    Width = 74
+    Height = 13
+    Caption = 'New Password:'
+  end
+  object lblRepeatNewPassword: TLabel
+    Left = 100
+    Top = 109
+    Width = 112
+    Height = 13
+    Caption = 'Repeat New Password:'
+  end
+  object edtOldPassword: TEdit
+    Left = 248
+    Top = 29
+    Width = 121
+    Height = 21
+    TabOrder = 0
+  end
+  object edtNewPassword: TEdit
+    Left = 248
+    Top = 72
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object edtRepeatNewPassword: TEdit
+    Left = 248
+    Top = 109
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object btnChange: TButton
+    Left = 248
+    Top = 152
+    Width = 121
+    Height = 25
+    Caption = 'Change Password'
+    TabOrder = 3
+    OnClick = btnChangeClick
+  end
+  object btnExit: TButton
+    Left = 248
+    Top = 202
+    Width = 121
+    Height = 25
+    Caption = 'Return To Login'
+    TabOrder = 4
+    OnClick = btnExitClick
+  end
+end

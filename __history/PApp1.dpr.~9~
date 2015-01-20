@@ -1,0 +1,26 @@
+program PApp1;
+
+uses
+  Vcl.Forms,
+  UMain in 'UMain.pas' {frmMain},
+  ULogon in 'ULogon.pas' {frmLogon},
+  UAdmin in 'UAdmin.pas' {frmAdmin},
+  UManager in 'UManager.pas' {frmManager},
+  UUser in 'UUser.pas' {frmUser},
+  UPassChange in 'UPassChange.pas' {frmChangePassword},
+  UTraining in 'UTraining.pas' {frmTraining};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmMain, frmMain);
+  Application.CreateForm(TfrmLogon, frmLogon);
+  Application.CreateForm(TfrmAdmin, frmAdmin);
+  Application.CreateForm(TfrmManager, frmManager);
+  Application.CreateForm(TfrmUser, frmUser);
+  Application.CreateForm(TfrmChangePassword, frmChangePassword);
+  Application.CreateForm(TfrmTraining, frmTraining);
+  Application.Run;
+end.

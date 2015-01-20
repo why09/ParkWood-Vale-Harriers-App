@@ -1,0 +1,35 @@
+unit UPassChange;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, UMain, ULogon, Vcl.StdCtrls;
+
+type
+  TfrmChangePassword = class(TForm)
+    lblOldPassword: TLabel;
+    lblNewPassword: TLabel;
+    lblRepeatNewPassword: TLabel;
+    edtOldPassword: TEdit;
+    edtNewPassword: TEdit;
+    edtRepeatNewPassword: TEdit;
+    btnChange: TButton;
+    btnExit: TButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmChangePassword: TfrmChangePassword;
+
+implementation
+
+{$R *.dfm}
+
+uses UAdmin, UManager, UUser;
+
+
+end.

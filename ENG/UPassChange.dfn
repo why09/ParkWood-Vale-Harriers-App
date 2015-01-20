@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="\\kali\Students_O_TR\os141454\Desktop\AS Computing\Coursework CG2.x\Application Files\UPassChange.dfm" source-language="en-GB" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="\\kali\Students_O_TR\os141454\Desktop\AS Computing\Coursework CG2.x\Application Files\UPassChange.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">42012.4672916667</prop>
+        <prop prop-type="OrigDateTime">41961.4803240741</prop>
+        <prop prop-type="XlatDateTime">41961.4803240741</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">58</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmChangePassword.Left" resname="O:frmChangePassword.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Top" resname="O:frmChangePassword.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Caption" resname="O:frmChangePassword.Caption">
+        <source>'Change Password'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.ClientHeight" resname="O:frmChangePassword.ClientHeight">
+        <source>243</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.ClientWidth" resname="O:frmChangePassword.ClientWidth">
+        <source>472</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Color" resname="O:frmChangePassword.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Font.Charset" resname="O:frmChangePassword.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Font.Color" resname="O:frmChangePassword.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Font.Height" resname="O:frmChangePassword.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Font.Name" resname="O:frmChangePassword.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.Font.Style" resname="O:frmChangePassword.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.OldCreateOrder" resname="O:frmChangePassword.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.PixelsPerInch" resname="O:frmChangePassword.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.TextHeight" resname="O:frmChangePassword.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmChangePassword</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblOldPassword.Left" resname="O:frmChangePassword.O:lblOldPassword.Left">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblOldPassword.Top" resname="O:frmChangePassword.O:lblOldPassword.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblOldPassword.Width" resname="O:frmChangePassword.O:lblOldPassword.Width">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblOldPassword.Height" resname="O:frmChangePassword.O:lblOldPassword.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblOldPassword.Caption" resname="O:frmChangePassword.O:lblOldPassword.Caption">
+        <source>'Old Password:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblNewPassword.Left" resname="O:frmChangePassword.O:lblNewPassword.Left">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblNewPassword.Top" resname="O:frmChangePassword.O:lblNewPassword.Top">
+        <source>72</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblNewPassword.Width" resname="O:frmChangePassword.O:lblNewPassword.Width">
+        <source>74</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069792</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblNewPassword.Height" resname="O:frmChangePassword.O:lblNewPassword.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblNewPassword.Caption" resname="O:frmChangePassword.O:lblNewPassword.Caption">
+        <source>'New Password:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblRepeatNewPassword.Left" resname="O:frmChangePassword.O:lblRepeatNewPassword.Left">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblRepeatNewPassword.Top" resname="O:frmChangePassword.O:lblRepeatNewPassword.Top">
+        <source>109</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblRepeatNewPassword.Width" resname="O:frmChangePassword.O:lblRepeatNewPassword.Width">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblRepeatNewPassword.Height" resname="O:frmChangePassword.O:lblRepeatNewPassword.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:lblRepeatNewPassword.Caption" resname="O:frmChangePassword.O:lblRepeatNewPassword.Caption">
+        <source>'Repeat New Password:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtOldPassword.Left" resname="O:frmChangePassword.O:edtOldPassword.Left">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtOldPassword.Top" resname="O:frmChangePassword.O:edtOldPassword.Top">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtOldPassword.Width" resname="O:frmChangePassword.O:edtOldPassword.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtOldPassword.Height" resname="O:frmChangePassword.O:edtOldPassword.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtOldPassword.TabOrder" resname="O:frmChangePassword.O:edtOldPassword.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtNewPassword.Left" resname="O:frmChangePassword.O:edtNewPassword.Left">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtNewPassword.Top" resname="O:frmChangePassword.O:edtNewPassword.Top">
+        <source>72</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtNewPassword.Width" resname="O:frmChangePassword.O:edtNewPassword.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtNewPassword.Height" resname="O:frmChangePassword.O:edtNewPassword.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtNewPassword.TabOrder" resname="O:frmChangePassword.O:edtNewPassword.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtRepeatNewPassword.Left" resname="O:frmChangePassword.O:edtRepeatNewPassword.Left">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtRepeatNewPassword.Top" resname="O:frmChangePassword.O:edtRepeatNewPassword.Top">
+        <source>109</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtRepeatNewPassword.Width" resname="O:frmChangePassword.O:edtRepeatNewPassword.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtRepeatNewPassword.Height" resname="O:frmChangePassword.O:edtRepeatNewPassword.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:edtRepeatNewPassword.TabOrder" resname="O:frmChangePassword.O:edtRepeatNewPassword.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.Left" resname="O:frmChangePassword.O:btnChange.Left">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.Top" resname="O:frmChangePassword.O:btnChange.Top">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.Width" resname="O:frmChangePassword.O:btnChange.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.Height" resname="O:frmChangePassword.O:btnChange.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.Caption" resname="O:frmChangePassword.O:btnChange.Caption">
+        <source>'Change Password'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.TabOrder" resname="O:frmChangePassword.O:btnChange.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnChange.OnClick" resname="O:frmChangePassword.O:btnChange.OnClick">
+        <source>btnChangeClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.Left" resname="O:frmChangePassword.O:btnExit.Left">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.Top" resname="O:frmChangePassword.O:btnExit.Top">
+        <source>202</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.Width" resname="O:frmChangePassword.O:btnExit.Width">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.Height" resname="O:frmChangePassword.O:btnExit.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.Caption" resname="O:frmChangePassword.O:btnExit.Caption">
+        <source>'Return To Login'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.TabOrder" resname="O:frmChangePassword.O:btnExit.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmChangePassword.O:btnExit.OnClick" resname="O:frmChangePassword.O:btnExit.OnClick">
+        <source>btnExitClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">42012.4673069907</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

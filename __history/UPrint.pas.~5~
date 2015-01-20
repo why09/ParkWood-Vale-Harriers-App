@@ -1,0 +1,35 @@
+unit UPrint;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Data.DB;
+
+type
+  TfrmPrint = class(TForm)
+    prD1: TPrintDialog;
+    DataSource1: TDataSource;
+    procedure FormShow(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrint: TfrmPrint;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmPrint.FormShow(Sender: TObject);
+begin
+  if prD1.Execute then
+  begin
+    frmPrint.Print;
+  end;
+end;
+
+end.

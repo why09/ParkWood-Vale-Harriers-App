@@ -1,0 +1,18 @@
+program PApp1;
+
+uses
+  Vcl.Forms,
+  UMain in 'UMain.pas' {frmMain},
+  ULogon in 'ULogon.pas' {frmLogon},
+  UAdmin in 'UAdmin.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmMain, frmMain);
+  Application.CreateForm(TfrmLogon, frmLogon);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

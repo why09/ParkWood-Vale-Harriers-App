@@ -1,0 +1,37 @@
+unit UManager;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, UMain, Data.DB, Data.Win.ADODB,
+  Vcl.StdCtrls;
+
+type
+  TfrmManager = class(TForm)
+    dsActivity: TDataSource;
+    dsTraining: TDataSource;
+    adotTrain: TADOTable;
+    btnChange: TButton;
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmManager: TfrmManager;
+
+implementation
+
+{$R *.dfm}
+
+uses ULogon;
+
+procedure TfrmManager.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  frmLogon.Visible := true;
+end;
+
+end.

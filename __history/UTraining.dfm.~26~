@@ -1,0 +1,156 @@
+object frmTraining: TfrmTraining
+  Left = 0
+  Top = 0
+  Caption = 'Add New Training Session'
+  ClientHeight = 599
+  ClientWidth = 629
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblInstruct2: TLabel
+    Left = 24
+    Top = 264
+    Width = 42
+    Height = 13
+    Caption = 'Calories:'
+  end
+  object lblInstruct4: TLabel
+    Left = 24
+    Top = 184
+    Width = 45
+    Height = 13
+    Caption = 'Distance:'
+  end
+  object lblInstruct3: TLabel
+    Left = 24
+    Top = 144
+    Width = 27
+    Height = 13
+    Caption = 'Date:'
+  end
+  object lblInstruct5: TLabel
+    Left = 24
+    Top = 227
+    Width = 26
+    Height = 13
+    Caption = 'Time:'
+  end
+  object lblInstruct6: TLabel
+    Left = 24
+    Top = 107
+    Width = 34
+    Height = 13
+    Caption = 'Speed:'
+  end
+  object btnPost: TButton
+    Left = 472
+    Top = 24
+    Width = 129
+    Height = 25
+    Caption = 'Save Session'
+    TabOrder = 0
+    OnClick = btnPostClick
+  end
+  object btnCalCalc: TButton
+    Left = 472
+    Top = 107
+    Width = 129
+    Height = 25
+    Caption = 'Calculate Calories'
+    TabOrder = 1
+    OnClick = btnCalCalcClick
+  end
+  object btnCancel: TButton
+    Left = 472
+    Top = 66
+    Width = 129
+    Height = 25
+    Caption = 'Discard Session'
+    TabOrder = 2
+    OnClick = btnCancelClick
+  end
+  object DBEdit1: TDBEdit
+    Left = 112
+    Top = 144
+    Width = 121
+    Height = 21
+    TabOrder = 3
+  end
+  object DBEdit3: TDBEdit
+    Left = 112
+    Top = 184
+    Width = 121
+    Height = 21
+    TabOrder = 4
+  end
+  object DBEdit4: TDBEdit
+    Left = 112
+    Top = 224
+    Width = 121
+    Height = 21
+    TabOrder = 5
+    OnChange = DBEdit4Change
+  end
+  object DBEdit5: TDBEdit
+    Left = 112
+    Top = 264
+    Width = 121
+    Height = 21
+    TabOrder = 6
+  end
+  object DateTimePicker1: TDateTimePicker
+    Left = 269
+    Top = 144
+    Width = 186
+    Height = 21
+    Date = 41975.507006851850000000
+    Time = 41975.507006851850000000
+    TabOrder = 7
+    OnChange = DateTimePicker1Change
+  end
+  object cldToday: TCalendar
+    Left = 269
+    Top = 184
+    Width = 320
+    Height = 138
+    StartOfWeek = 0
+    TabOrder = 8
+  end
+  object Edit1: TEdit
+    Left = 112
+    Top = 107
+    Width = 121
+    Height = 21
+    ReadOnly = True
+    TabOrder = 9
+  end
+  object DBLookupComboBox1: TDBLookupComboBox
+    Left = 269
+    Top = 48
+    Width = 145
+    Height = 21
+    DataField = 'ActivityID'
+    DataSource = dsTrain
+    KeyField = 'ActivityID'
+    ListField = 'ActivityName'
+    ListSource = dsActivity
+    TabOrder = 10
+  end
+  object dsActivity: TDataSource
+    DataSet = frmMain.ADOTableActivity
+    Left = 32
+    Top = 16
+  end
+  object dsTrain: TDataSource
+    DataSet = frmMain.ADOTableTrain
+    Left = 88
+    Top = 16
+  end
+end

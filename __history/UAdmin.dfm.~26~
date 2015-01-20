@@ -1,0 +1,372 @@
+object frmAdmin: TfrmAdmin
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'Administrator Options'
+  ClientHeight = 481
+  ClientWidth = 840
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnClose = FormClose
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 612
+    Top = 66
+    Width = 52
+    Height = 13
+    Caption = 'Username:'
+  end
+  object Label2: TLabel
+    Left = 612
+    Top = 201
+    Width = 65
+    Height = 13
+    Caption = 'Date of Birth:'
+  end
+  object Label3: TLabel
+    Left = 612
+    Top = 368
+    Width = 48
+    Height = 13
+    Caption = 'Postcode:'
+  end
+  object Label4: TLabel
+    Left = 612
+    Top = 93
+    Width = 50
+    Height = 13
+    Caption = 'Password:'
+  end
+  object Label5: TLabel
+    Left = 612
+    Top = 228
+    Width = 39
+    Height = 13
+    Caption = 'Gender:'
+  end
+  object Label6: TLabel
+    Left = 612
+    Top = 341
+    Width = 39
+    Height = 13
+    Caption = 'County:'
+  end
+  object Label7: TLabel
+    Left = 612
+    Top = 120
+    Width = 29
+    Height = 13
+    Caption = 'Level:'
+  end
+  object Label8: TLabel
+    Left = 612
+    Top = 260
+    Width = 74
+    Height = 13
+    Caption = 'Address Line 1:'
+  end
+  object Label9: TLabel
+    Left = 612
+    Top = 398
+    Width = 84
+    Height = 13
+    Caption = 'Home Telephone:'
+  end
+  object Label10: TLabel
+    Left = 612
+    Top = 148
+    Width = 55
+    Height = 13
+    Caption = 'First Name:'
+  end
+  object Label11: TLabel
+    Left = 612
+    Top = 287
+    Width = 74
+    Height = 13
+    Caption = 'Address Line 2:'
+  end
+  object Label12: TLabel
+    Left = 612
+    Top = 425
+    Width = 74
+    Height = 13
+    Caption = 'Mobile Number:'
+  end
+  object Label13: TLabel
+    Left = 612
+    Top = 175
+    Width = 46
+    Height = 13
+    Caption = 'Surname:'
+  end
+  object Label14: TLabel
+    Left = 612
+    Top = 314
+    Width = 53
+    Height = 13
+    Caption = 'Town/City:'
+  end
+  object Label15: TLabel
+    Left = 612
+    Top = 452
+    Width = 70
+    Height = 13
+    Caption = 'Email Address:'
+  end
+  object DBGrid1: TDBGrid
+    Left = 8
+    Top = 74
+    Width = 320
+    Height = 120
+    DataSource = dsUsers
+    TabOrder = 0
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+  object DBNavigator1: TDBNavigator
+    Left = 184
+    Top = 24
+    Width = 310
+    Height = 25
+    DataSource = dsUsers
+    TabOrder = 1
+  end
+  object btnFirst: TButton
+    Left = 8
+    Top = 216
+    Width = 75
+    Height = 25
+    Caption = 'First'
+    TabOrder = 2
+    OnClick = btnFirstClick
+  end
+  object btnNext: TButton
+    Left = 89
+    Top = 216
+    Width = 75
+    Height = 25
+    Caption = 'Next'
+    TabOrder = 3
+    OnClick = btnNextClick
+  end
+  object btnPrevious: TButton
+    Left = 172
+    Top = 216
+    Width = 75
+    Height = 25
+    Caption = 'Previous'
+    TabOrder = 4
+    OnClick = btnPreviousClick
+  end
+  object btnLast: TButton
+    Left = 253
+    Top = 216
+    Width = 75
+    Height = 25
+    Caption = 'Last'
+    TabOrder = 5
+    OnClick = btnLastClick
+  end
+  object dbeUsername: TDBEdit
+    Left = 711
+    Top = 66
+    Width = 121
+    Height = 21
+    DataField = 'Username'
+    DataSource = dsUsers
+    TabOrder = 6
+  end
+  object dbePassword: TDBEdit
+    Left = 711
+    Top = 93
+    Width = 121
+    Height = 21
+    DataField = 'Password'
+    DataSource = dsUsers
+    TabOrder = 7
+  end
+  object dbeTown: TDBEdit
+    Left = 711
+    Top = 314
+    Width = 121
+    Height = 21
+    DataField = 'Town'
+    DataSource = dsUsers
+    TabOrder = 8
+  end
+  object dbeEMail: TDBEdit
+    Left = 711
+    Top = 452
+    Width = 121
+    Height = 21
+    DataField = 'EMail Address'
+    DataSource = dsUsers
+    TabOrder = 9
+  end
+  object dbeFName: TDBEdit
+    Left = 711
+    Top = 148
+    Width = 121
+    Height = 21
+    DataField = 'FName'
+    DataSource = dsUsers
+    TabOrder = 10
+  end
+  object dbeAddress2: TDBEdit
+    Left = 711
+    Top = 287
+    Width = 121
+    Height = 21
+    DataField = 'Address2'
+    DataSource = dsUsers
+    TabOrder = 11
+  end
+  object dbeMobNum: TDBEdit
+    Left = 711
+    Top = 425
+    Width = 121
+    Height = 21
+    DataField = 'Mobile Number'
+    DataSource = dsUsers
+    TabOrder = 12
+  end
+  object dbeLevel: TDBEdit
+    Left = 711
+    Top = 120
+    Width = 121
+    Height = 21
+    DataField = 'Level'
+    DataSource = dsUsers
+    TabOrder = 13
+  end
+  object dbeAddress1: TDBEdit
+    Left = 711
+    Top = 260
+    Width = 121
+    Height = 21
+    DataField = 'Address1'
+    DataSource = dsUsers
+    TabOrder = 14
+  end
+  object dbeTelNum: TDBEdit
+    Left = 711
+    Top = 398
+    Width = 121
+    Height = 21
+    DataField = 'Telephone Number'
+    DataSource = dsUsers
+    TabOrder = 15
+  end
+  object dbeStateProvince: TDBEdit
+    Left = 711
+    Top = 341
+    Width = 121
+    Height = 21
+    DataField = 'State/Province'
+    DataSource = dsUsers
+    TabOrder = 16
+  end
+  object dbePCode: TDBEdit
+    Left = 711
+    Top = 368
+    Width = 121
+    Height = 21
+    DataField = 'PCode'
+    DataSource = dsUsers
+    TabOrder = 17
+  end
+  object dbeGender: TDBEdit
+    Left = 711
+    Top = 228
+    Width = 121
+    Height = 21
+    DataField = 'Gender'
+    DataSource = dsUsers
+    TabOrder = 18
+  end
+  object dbeDOB: TDBEdit
+    Left = 711
+    Top = 201
+    Width = 121
+    Height = 21
+    DataField = 'DOB'
+    DataSource = dsUsers
+    TabOrder = 19
+  end
+  object dbeSName: TDBEdit
+    Left = 711
+    Top = 175
+    Width = 121
+    Height = 21
+    DataField = 'SName'
+    DataSource = dsUsers
+    TabOrder = 20
+  end
+  object btnDelete: TButton
+    Left = 343
+    Top = 74
+    Width = 75
+    Height = 25
+    Caption = 'Delete'
+    TabOrder = 21
+    OnClick = btnDeleteClick
+  end
+  object btnSave: TButton
+    Left = 343
+    Top = 105
+    Width = 75
+    Height = 25
+    Caption = 'Save'
+    TabOrder = 22
+    OnClick = btnSaveClick
+  end
+  object btnNew: TButton
+    Left = 343
+    Top = 136
+    Width = 75
+    Height = 25
+    Caption = 'New Record'
+    TabOrder = 23
+    OnClick = btnNewClick
+  end
+  object btnPrint: TButton
+    Left = 343
+    Top = 169
+    Width = 75
+    Height = 25
+    Caption = 'Print'
+    TabOrder = 24
+    OnClick = btnPrintClick
+  end
+  object Button1: TButton
+    Left = 8
+    Top = 314
+    Width = 585
+    Height = 87
+    Caption = 'MURDER CPU'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -96
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 25
+    OnClick = Button1Click
+  end
+  object dsUsers: TDataSource
+    DataSet = frmMain.ADOTableUsers
+    Left = 32
+    Top = 24
+  end
+end

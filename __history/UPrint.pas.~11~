@@ -1,0 +1,46 @@
+unit UPrint;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Data.DB, Vcl.Grids,
+  Vcl.DBGrids;
+
+type
+  TfrmPrint = class(TForm)
+    prdProj: TPrintDialog;
+    dsTrain: TDataSource;
+    dsUser: TDataSource;
+    dbgTrain: TDBGrid;
+    dbgUsers: TDBGrid;
+    procedure FormCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrint: TfrmPrint;
+
+implementation
+
+{$R *.dfm}
+
+Uses UMain, ULogon;
+
+procedure TfrmPrint.FormCreate(Sender: TObject);
+var
+  level : integer;
+begin
+  dbgUsers.Visible := False;
+  level := status;
+  if level = 1 then
+    dbgUsers.Visible := True
+  else
+    if level = 3 then
+      dbgTrain.Visible := False;
+end;
+
+end.
